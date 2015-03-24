@@ -1,10 +1,5 @@
-General idea is to move away from an "Architecture Team" and create an
-"Architecture Board" with elected members (24 month terms), clear
-responsibilities, and regular meetings with all engineers filling the
-"Engineering Architect" ingredient on their team.
-
-Architecture board
-------------------
+General Structure
+-----------------
 
   - Target 4 members at any given time. Over time may develop as % of engineers or % of teams in Gilt Tech
   - 24 month term
@@ -18,7 +13,7 @@ Architecture board
 High level responsibility
 -------------------------
 
-  - Define job description for “architect” ingredient
+  - Define job description for "architect" ingredient
   - Chair responsibilities:
     - Convene regular board meetings as necessary - initial thought is the architecture board should meet on its own at least twice / month. 
     - Share agenda + minutes with all of tech from each board meeting - most important here is to make transparent all of the decisions, non decisions, and discussions
@@ -48,29 +43,3 @@ Member replacement
   - TSD - 1.5 months: Arch board makes decision on next member
   - TSD - 1 month: Nominee announced. Joins board as observer until TSD
   - TSD: Current architecture board member leaves. TSD joins as active member for 2 year term
-
-Initial Board
--------------
-
-Initial members will be the current architecture team, with term expiration set to enable 1 person to rotate approximately every 6 months:
-
-  - Andrey: 11/1/14 - 5/1/16
-  - Gregor: 11/1/14 - 11/1/15 - current arch chair
-  - Pete: 11/1/14 - 5/1/15
-  - Andres: 11/1/14 - 11/1/16
-  - Chris: 11/1/14 - 11/1/16
-
-Decision making process
------------------------
-
-  - All board decisions are ideally made by unanimous consent of all current architecture board members and the CTO.
-  - In the event that a decision cannot be made:
-    - Any proposal can be voted on by the board.
-    - If 50% or more of the board members approve the proposal, the proposal is submitted to CTO for final review.
-    - In the event of a tie, the chair single handedly decides whether or not the recommendation proceeds
-    - CTO has sole discretion to approve or reject a proposal
-
-  - Board chair will share all decisions with tech and also provide:
-    - a directory of historical decisions
-    - published internal board metric for how decisions are being made - e.g. ideally we’d like to see over ⅔ of the decisions made through consent.
-    - In some cases, there may be some urgency to make a decision requiring a timebox set for exploratory work before a decision is made. These situations and timelines can be identified through the normal decision making process. In the event there is no decision at the end of the timebox, CTO solely reserves the right to make the decision or to extend the timebox.
