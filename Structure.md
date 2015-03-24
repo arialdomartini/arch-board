@@ -8,7 +8,7 @@ General Structure
   - Expect 25% of time devoted to arch board. All board members continue to serve as first class team members as their primary role. To help facilitate this time:
   - Architecture board will provide comments into company wide review process on duties related to “Engineering Architect” ingredient
   - Tech exec and team management will encourage teams to actively plan time for architecture into all ongoing work
-  - Reports to CTO
+  - Reports to Senior VP Engineering
 
 High level responsibility
 -------------------------
