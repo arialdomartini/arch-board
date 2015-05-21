@@ -11,6 +11,7 @@ Some of the specific objectives are to:
   - Define standards for inter team communication
   - Assist teams in solving hard technical problems in simple, scalable ways
   - Assess specific technologies - already at Gilt or not yet in use at Gilt
+  - Maintain a Gilt Tech Radar
 
 We believe that a good way to accomplish these goals is to facilitate quarterly in person meetings which we are calling Architecture Councils. All engineers are invited to these meetings. We alternate the host location between Dublin and New York (engineers not based in the host location can join via GVC).
 
