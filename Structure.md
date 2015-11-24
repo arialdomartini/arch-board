@@ -1,20 +1,21 @@
 General Structure
 -----------------
 
-  - The architecture board consists of all principal and distinguished engineers in Gilt Tech.
-  - One member of the board will be the Chair. The chair is elected on a 12 month term.
+  - The principal and distinguished members of Gilt Tech constitute the permanent members of the architecture board.
+  - One member of the board will serve as Chair. The chair is elected to a one-year term.
   - Attendance at board meetings is voluntary, however each department should be represented by at least one member.
-  - Expect 25% of time devoted to arch board. All board members continue to serve as first class team members as their primary role. To help facilitate this time:
-  - Tech exec and team management will encourage teams to actively plan time for architecture into all ongoing work
-  - Reports to Senior VP Engineering
+  - In order to ensure broad technical and departmental representation, the board may appoint additional members to one-year terms, subject to BDFL approval.
+  - Expect 25% of time devoted to arch board. All board members continue to serve as first class team members as their primary role.
+  - Tech exec and team management will encourage teams to actively plan time for architecture into all ongoing work.
+  - The board reports to SVP Engineering.
 
-High level responsibility
+High-level responsibility
 -------------------------
 
   - The architecture board will provide comments into company wide review process on duties related to “Engineering Architect” ingredient
   - Define job description for "architect" ingredient
   - Chair responsibilities:
-    - Convene regular board meetings as necessary - initial thought is the architecture board should meet on its own at least twice / month. 
+    - Convene regular board meetings as necessary and at least twice per month.
     - Share agenda + minutes with all of tech from each board meeting - most important here is to make transparent all of the decisions, non decisions, and discussions
     - Convene triannual (every 4 months) meeting for all architects to share best practices. We will call this the “Architecture Council”. Example of agenda items for the architecture councils:
       - Review key RFCs
@@ -22,7 +23,7 @@ High level responsibility
       - Discussion of a proposal on standards that the arch board is preparing
   - Primary responsibilities:
     - Make it easier to brainstorm solutions to problems and to share results
-    - Highlight best practices across all our teams 
+    - Highlight best practices across all our teams
     - Minimize duplication of effort across Gilt
     - Define standards for inter team communication
     - Assist teams in solving hard technical problems in simple, scalable ways
@@ -34,9 +35,8 @@ High level responsibility
 Board Meetings
 --------------
 
-  - The board meets every 2 weeks.
   - Each department can decide which board member(s) should represent the department at board meetings. This does not have to be the same person every time.
-  - The main goal of the meetings is to share information as well as discuss and decide on archtectural topics that affect the entire tech organization.
+  - The main goal of the meetings is to share information as well as discuss and decide on architectural topics that affect the entire tech organization.
   - The meeting agenda will be distributed in advance of every meeting.
   - All members can raise topics to be discussed at board meetings.
   - Each meeting has a scribe to keep track of the minutes.
