@@ -36,6 +36,7 @@ Additional Board Members
   - Additional members are proposed by the Chair, after consultation with the respective department leads/directors.
   - The board decides on the proposed members via majority vote.
   - Additional board members are given a permanent seat on the board. 
+  - They are free to voluntarily give up their seat on the board.
 
 
 High-level responsibility
