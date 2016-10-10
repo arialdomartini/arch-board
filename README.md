@@ -24,10 +24,19 @@ General Structure
   - The principal and distinguished members of Gilt Tech constitute the permanent members of the architecture board.
   - One member of the board will serve as Chair. The chair is elected to a one-year term.
   - Attendance at board meetings is voluntary, however each department should be represented by at least one member.
-  - In order to ensure broad technical and departmental representation, the board should review its composition before each Architecture Council and may appoint additional members to one-year terms, subject to BDFL approval.
   - All board members continue to serve as first class team members as their primary role.
   - Tech exec and team management will encourage teams to actively plan time for architecture into all ongoing work.
   - The board reports to SVP Engineering.
+
+Additional Board Members
+------------------------
+
+  - The board should review its composition before each Architecture Council.
+  - In order to ensure broad technical and departmental representation, the board may appoint additional members at any point.
+  - Additional members are proposed by the Chair, after consultation with the respective department leads/directors.
+  - The board decides on the proposed members via majority vote.
+  - Additional board members are given a permanent seat on the board. 
+
 
 High-level responsibility
 -------------------------
