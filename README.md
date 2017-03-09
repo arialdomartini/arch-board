@@ -22,7 +22,7 @@ General Structure
 -----------------
 
   - The principal and distinguished members of Gilt Tech constitute the permanent members of the architecture board.
-  - One member of the board will serve as Chair. The chair is elected to a one-year term.
+  - One member of the board will serve as Chair. The chair is elected by the members of the Architecture Board to a one-year term.
   - Attendance at board meetings is voluntary, however each department should be represented by at least one member.
   - All board members continue to serve as first class team members as their primary role.
   - Tech exec and team management will encourage teams to actively plan time for architecture into all ongoing work.
@@ -36,23 +36,23 @@ Additional Board Members
   - Additional members are proposed by the Chair, after consultation with the respective department leads/directors.
   - The board decides on the proposed members via majority vote.
   - Additional board members are given a permanent seat on the board. 
-  - They are free to voluntarily give up their seat on the board.
+  - Additional members are free to voluntarily give up their seat on the board.
 
 
 High-level responsibility
 -------------------------
 
-  - The architecture board will provide comments into company wide review process on duties related to “Engineering Architect” ingredient
+  - The architecture board will provide comments into company wide review process on duties related to "Engineering Architect" ingredient
   - Define job description for "architect" ingredient
   - Chair responsibilities:
     - Convene regular board meetings as necessary and at least twice per month.
     - Share agenda + minutes with all of tech from each board meeting - most important here is to make transparent all of the decisions, non decisions, and discussions
     - Convene Architecture Councils
-  - Primary responsibilities:
+  - Primary responsibilities of the Architecture Board:
     - Make it easier to brainstorm solutions to problems and to share results
     - Highlight best practices across all our teams
     - Minimize duplication of effort across Gilt
-    - Define standards for inter team communication
+    - Define standards for inter-team communication
     - Assist teams in solving hard technical problems in simple, scalable ways
     - Assess specific technologies - both already at Gilt or not yet in use at Gilt
     - Maintain a Gilt Tech Radar
