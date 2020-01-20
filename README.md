@@ -52,6 +52,7 @@ Example of agenda items for the Architecture Boards:
 * Convene regular board meeting as necessary, at most twice per month;
 * Share the agenda and the minutes with all from each board meeting, making transparent all of the decisions;
 * Publish and maintain a simple means to contact the board for help with issues and visibility of the feedback loop through to resolution;
+* Publish and maintain the agenda and the meeting minutes.
 
 
 ## Board Meetings
